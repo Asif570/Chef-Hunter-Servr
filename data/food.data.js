@@ -2,7 +2,7 @@ const Foods = [
   {
     id: "1",
     name: "Kung Pao Chicken",
-    photo_url: "https://example.com/kung-pao-chicken.jpg",
+    photo_url: "https://www.seriouseats.com/thmb/AaMf6tliWc3jh0R-9KLiJG5fzZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg",
     details:
       "Kung Pao chicken is a spicy stir-fry dish made with chicken, peanuts, vegetables, and chili peppers. The chicken is marinated in a mixture of soy sauce, rice wine, and cornstarch, then stir-fried with the other ingredients. It is typically served over rice or noodles.",
     ingredients: [
@@ -23,7 +23,7 @@ const Foods = [
   {
     id: "2",
     name: "Hot and Sour Soup",
-    photo_url: "https://example.com/hot-and-sour-soup.jpg",
+    photo_url: "https://redhousespice.com/wp-content/uploads/2021/08/Chinese-hot-and-sour-soup-1-scaled.jpg",
     details:
       "Hot and sour soup is a tangy and spicy soup made with mushrooms, tofu, bamboo shoots, eggs, and a variety of spices. It is typically served as an appetizer in Chinese cuisine.",
     ingredients: [
@@ -45,7 +45,7 @@ const Foods = [
   {
     id: "3",
     name: "Peking Duck",
-    photo_url: "https://example.com/peking-duck.jpg",
+    photo_url: "https://cookingwithcocktailrings.com/wp-content/uploads/2017/04/Faux-peking-duck-recipe-33.jpg",
     details:
       "Peking duck is a famous Chinese dish that originated in Beijing. It is made by roasting a whole duck until the skin is crispy, and then serving it with thin pancakes, scallions, and hoisin sauce.",
     ingredients: [
@@ -65,7 +65,7 @@ const Foods = [
   {
     id: "4",
     name: "Moo Shu Pork",
-    photo_url: "https://example.com/moo-shu-pork.jpg",
+    photo_url: "https://silkroadrecipes.com/wp-content/uploads/2022/02/Moo-Shu-Pork-square.jpg",
     details:
       "Moo shu pork is a classic Chinese stir-fry dish made with pork, eggs, mushrooms, and cabbage. It is typically served with thin pancakes and hoisin sauce.",
     ingredients: [
@@ -86,7 +86,7 @@ const Foods = [
   {
     id: "5",
     name: "Ma Po Tofu",
-    photo_url: "https://example.com/ma-po-tofu.jpg",
+    photo_url: "https://res.cloudinary.com/anova-applied-electronics/image/upload/v1597597189/mobileProduction/ugl3a6afjxfrtgfxoaxg.jpg",
     details:
       "Ma Po Tofu is a popular Chinese dish made with tofu, ground pork, and spicy chili bean sauce. It is typically served over rice.",
     ingredients: [
@@ -106,7 +106,7 @@ const Foods = [
   {
     id: "6",
     name: "Dumplings",
-    photo_url: "https://example.com/dumplings.jpg",
+    photo_url: "https://www.foodandwine.com/thmb/zUmonmhsL-s4LCvGPl_AvuWXqTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lunar-new-year-dumplings-FT-RECIPE0221-6c10313b541649d297d31479fb8eda20.jpg",
     details:
       "Dumplings are a popular Chinese food that come in many varieties. They are made by wrapping dough around a filling, which can include meat, vegetables, or a combination of both. Dumplings can be boiled, steamed, or pan-fried.",
     ingredients: [
@@ -126,7 +126,7 @@ const Foods = [
   {
     id: "7",
     name: "Sesame Chicken",
-    photo_url: "https://example.com/sesame-chicken.jpg",
+    photo_url: "https://images.getrecipekit.com/20221123182745-sesame-chicken.png?aspect_ratio=16:9&quality=90&",
     details:
       "Sesame chicken is a classic Chinese-American dish made with crispy fried chicken, a sweet and savory sauce, and sesame seeds. It is typically served over rice.",
     ingredients: [
@@ -147,7 +147,7 @@ const Foods = [
   {
     id: "8",
     name: "Kung Pao Chicken",
-    photo_url: "https://example.com/kung-pao-chicken.jpg",
+    photo_url: "https://lh5.googleusercontent.com/-8KzEiDAxDRw/U1ix3_IFmjI/AAAAAAAEgRM/Q_4g4HzIc94/s800/kung-pao-chicken-15.jpg",
     details:
       "Kung Pao Chicken is a spicy and flavorful dish made with chicken, peanuts, and vegetables. It is typically served over rice or noodles.",
     ingredients: [
@@ -171,7 +171,7 @@ const Foods = [
   {
     id: "9",
     name: "Hot and Sour Soup",
-    photo_url: "https://example.com/hot-and-sour-soup.jpg",
+    photo_url: "https://hemamagesh.com/wp-content/uploads/2020/01/hot-and-sour-chicken-soup-ftd-500x350.jpg",
     details:
       "Hot and Sour Soup is a popular Chinese soup made with tofu, mushrooms, bamboo shoots, and a variety of spices. It is typically served as a starter.",
     ingredients: [
@@ -193,7 +193,7 @@ const Foods = [
   {
     id: "10",
     name: "Moo Shu Pork",
-    photo_url: "https://example.com/moo-shu-pork.jpg",
+    photo_url: "https://www.jocooks.com/wp-content/uploads/2021/02/moo-shu-pork-1-13.jpg",
     details:
       "Moo Shu Pork is a Chinese dish made with pork, eggs, vegetables, and pancakes. The pork is typically marinated in a mixture of soy sauce, sugar, and other spices before being stir-fried with the other ingredients.",
     ingredients: [
@@ -215,7 +215,7 @@ const Foods = [
   {
     id: "11",
     name: "Szechuan Beef",
-    photo_url: "https://example.com/szechuan-beef.jpg",
+    photo_url: "https://kirbiecravings.com/wp-content/uploads/2019/07/szechuan-beef-5-700x652.jpg",
     details:
       "Szechuan Beef is a spicy and flavorful dish made with beef, vegetables, and a variety of spices. It is typically served over rice or noodles.",
     ingredients: [
@@ -238,7 +238,7 @@ const Foods = [
   {
     id: "12",
     name: "Lion's Head Meatballs",
-    photo_url: "https://example.com/lions-head-meatballs.jpg",
+    photo_url: "https://cdn.slowcookingperfected.com/wp-content/uploads/2018/12/Slow-Cooker-Lions-Head-Meatballs-v4.jpg",
     details:
       "Lion's Head Meatballs are a classic Chinese dish made with large pork meatballs cooked in a savory broth with vegetables. The name comes from the large size of the meatballs, which are said to resemble a lion's head.",
     ingredients: [
@@ -262,7 +262,7 @@ const Foods = [
   {
     id: "13",
     name: "Shrimp Fried Rice",
-    photo_url: "https://example.com/shrimp-fried-rice.jpg",
+    photo_url: "https://realhousemoms.com/wp-content/uploads/Shrimp-Fried-Rice-RECIPE-CARD.jpg",
     details:
       "Shrimp Fried Rice is a classic Chinese dish made with rice, shrimp, eggs, and vegetables. It is typically served as a main course.",
     ingredients: [
@@ -282,7 +282,7 @@ const Foods = [
   {
     id: "14",
     name: "Kung Pao Chicken",
-    photo_url: "https://example.com/kung-pao-chicken.jpg",
+    photo_url: "https://www.onceuponachef.com/images/2018/05/Kung-Pao-Chicken-16-scaled.jpg",
     details:
       "Kung Pao Chicken is a spicy and savory Chinese dish made with chicken, peanuts, vegetables, and a spicy sauce. It is typically served over rice or noodles.",
     ingredients: [
@@ -306,7 +306,7 @@ const Foods = [
   {
     id: "15",
     name: "Hot and Sour Soup",
-    photo_url: "https://example.com/hot-and-sour-soup.jpg",
+    photo_url: "https://redhousespice.com/wp-content/uploads/2021/08/Chinese-hot-and-sour-soup-1-scaled.jpg",
     details:
       "Hot and Sour Soup is a popular Chinese soup made with a spicy and sour broth, mushrooms, tofu, and other ingredients. It is typically served as a starter.",
     ingredients: [
